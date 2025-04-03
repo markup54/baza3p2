@@ -78,4 +78,9 @@ public class GraPlanszowa {
     public void setTrudnosc(double trudnosc) {
         this.trudnosc = trudnosc;
     }
+
+    @Override
+    public String toString() {
+        return nazwa ;
+    }
 }
