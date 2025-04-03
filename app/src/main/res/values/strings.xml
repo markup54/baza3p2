@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="wiek">
+        <item>0</item>
+        <item>5</item>
+        <item>8</item>
+        <item>12</item>
+        <item>14</item>
+        <item>18</item>
+    </string-array>
 </resources>
